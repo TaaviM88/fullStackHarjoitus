@@ -12,5 +12,13 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaaviM88/fullStackHarjoitus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TaaviM88/fullStackHarjoitus/issues"
+  },
+  "homepage": "https://github.com/TaaviM88/fullStackHarjoitus#readme"
 }

@@ -1,0 +1,36 @@
+body{
+  font-family: fantasy;
+}
+
+.oma_button{
+  background-color: #571962;
+  border-color: #571926;
+  color:white;
+}
+.oma_button:hover{
+  color:#abd7bc;
+}
+
+.otsikko{
+  text-align: center;
+}
+.otsikkokuva{
+  width: 100%;
+  height: 40vw;
+}
+.otsikkoteksti{
+  color.white;
+  position: absolute;
+  top:20vw;
+  left:50%;
+  transform: translate(-50%,-50%);
+}
+
+.otsikkoteksti h1{
+  font-size: 3em;
+}
+@media only screen and(max-width: 840px){
+  .otsikkoteksti h1{
+    font-size: 1.5em;
+  }
+}
